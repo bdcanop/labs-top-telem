@@ -176,5 +176,5 @@ hdfs dfs -ls hdfs:///tmp/
 
 #### La parte 2 la podemos encontrar en el siguiente link:
 
-[Parte 2](lab3-3-pyspark/parte2/README.md)
+[Parte 2](../parte2/README.md)
 
