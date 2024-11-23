@@ -1,4 +1,8 @@
+### Copiamos los archivos que necesitamos desde el s3 al hadoop
+
 <img width="1440" alt="Pasted Graphic 24" src="https://github.com/user-attachments/assets/6bb31c67-d1ad-4201-85bd-e0a74296a895">
+
+### Ahora podemos crear las tablas directamente desde la instancia usando beeline
 
 <img width="1440" alt="Pasted Graphic 26" src="https://github.com/user-attachments/assets/64e83106-59e6-4e5c-b172-0cbe7d98c1ba">
 
@@ -7,6 +11,8 @@
 <img width="1440" alt="Pasted Graphic 28" src="https://github.com/user-attachments/assets/cc67ce1b-2576-4c85-a275-f6989591b6ef">
 
 <img width="1440" alt="Pasted Graphic 29" src="https://github.com/user-attachments/assets/b4658291-6b09-4955-a0fd-426f30f76b50">
+
+### También podemos crear las tablas y hacer las consultas usando la GUI de hive en hue
 
 <img width="1440" alt="Pasted Graphic 21" src="https://github.com/user-attachments/assets/323363ff-999b-471f-aad7-544c02ff3109">
 
