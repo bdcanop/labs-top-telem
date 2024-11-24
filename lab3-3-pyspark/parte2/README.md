@@ -39,3 +39,9 @@
 [Notebook Google Colab - Drive](../Solucion_Colab_Data_processing_using_PySpark.ipynb)
 
 [Notebook JupyterHub](../Solucion_Jupyter_Data_processing_using_PySpark.ipynb)
+
+#### Puede encontrar la uri de los datos procesados y sin procesar aquí:
+
+[uri de los datos sin procesar](s3://lab4-covid19/Raw/Covid19-Colombia.csv)
+
+[uri de los datos procesados](s3://lab4-covid19/Refined/dfjupyter/part-00000-6c0e1f35-6f26-4eb9-9799-caec006bdc2b-c000.csv)
