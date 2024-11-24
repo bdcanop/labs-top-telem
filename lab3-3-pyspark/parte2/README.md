@@ -16,6 +16,6 @@
 
 #### Los notebooks terminados se pueden encontrar en los siguientes links:
 
-[Notebook Google Colab - Drive](./README.md)
+[Notebook Google Colab - Drive](../Solucion_Colab_Data_processing_using_PySpark.ipynb)
 
-[Notebook JupyterHub](./README.md)
+[Notebook JupyterHub](../Solucion_Jupyter_Data_processing_using_PySpark.ipynb)
