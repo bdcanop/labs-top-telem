@@ -42,6 +42,10 @@
 
 #### Puede encontrar la uri de los datos procesados y sin procesar aquí:
 
-[uri de los datos sin procesar](s3://lab4-covid19/Raw/Covid19-Colombia.csv)
+uri de los datos sin procesar: s3://lab4-covid19/Raw/Covid19-Colombia.csv
 
-[uri de los datos procesados](s3://lab4-covid19/Refined/dfjupyter/part-00000-6c0e1f35-6f26-4eb9-9799-caec006bdc2b-c000.csv)
+uri de los datos procesados: s3://lab4-covid19/Refined/dfjupyter/part-00000-6c0e1f35-6f26-4eb9-9799-caec006bdc2b-c000.csv
+
+[URL de los datos sin procesar](https://lab4-covid19.s3.us-east-1.amazonaws.com/Raw/Covid19-Colombia.csv)
+
+[URL de los datos procesados](https://lab4-covid19.s3.us-east-1.amazonaws.com/Refined/dfjupyter/part-00000-6c0e1f35-6f26-4eb9-9799-caec006bdc2b-c000.csv)
