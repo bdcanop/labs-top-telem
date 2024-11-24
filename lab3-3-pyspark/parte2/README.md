@@ -6,7 +6,7 @@
 
 #### Para la parte de jupyterhub ingresamos al jupyter e importamos el siguiente template:
 
-[Data_processing_using_PySpark.ipynb](./README.md)
+[Data_processing_using_PySpark.ipynb](./Data_processing_using_PySpark.ipynb)
 
 <img width="1440" alt="Pasted Graphic 59" src="https://github.com/user-attachments/assets/a83e2c41-59fe-42bf-9547-d8d8b6f79cda">
 
